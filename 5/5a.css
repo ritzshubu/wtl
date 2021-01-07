@@ -1,0 +1,48 @@
+RU{
+    background-color: rgb(163, 165, 194);
+}
+b{ 
+    display:block;
+    color:rgb(53, 18, 53);
+    font-style:bold;
+    text-align: center;
+    font-size: 60px;
+}
+e{ 
+    display:block;
+    color:green;
+    font-style:bold;
+    text-align: center;
+    font-size: 60px;
+}
+s{ 
+    display:block;
+    color:red;
+    font-style:bold;
+    text-align: center;
+    font-size: 60px;
+}
+c{ display:block;
+    color:blue;
+    font-style:bold;
+    text-align: center;
+    font-size: 60px;
+}
+o{ display:block;
+    color:black;
+    font-style:bold;
+    text-align: center;
+    font-size: 60px;
+}
+EI{
+    background-color: darkgray;
+    text-align: center;
+    font-size: 10px;
+}
+m,l,h,er,t{
+    display: block;
+    color: blueviolet;
+    margin-left: 20px;
+    text-align: center;
+    font-size: 20px;
+}

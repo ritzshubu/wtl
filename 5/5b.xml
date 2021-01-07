@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="5b.xsl" ?>
+<RU>
+ <b> Books </b>
+ <e> Electronics </e>
+ <s> Stationaries </s>
+ <c> Clothes </c>
+ <co> Commodities </co>
+ <o> Other </o>
+</RU>

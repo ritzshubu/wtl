@@ -1,0 +1,31 @@
+    
+<html>     
+	<head><title>Validation of SRN</title>
+          <script type="text/javascript">
+                  function validate()
+                  {
+	        var srn = document.getElementById("txtsrn");
+	        if(srn.value == srn.value.match	(/[A-Z a-z][0-9]{2}[A-Z]{2}[0-9]{3}/))
+	
+                                {
+		       alert("SRN is valid " + srn.value);
+		 }
+	        else
+	                 {       alert("Invalid SRN, Re-enter");   
+                                 }
+                   }
+                </script>    </head>
+
+<body>
+<body style="background-image: url(pic1.jpg); background-repeat: no-repeat; background-size: 100%; backgroung-color:Black;">
+    <center>
+      <h1>Validation of Student Registration Number</h1>
+	
+      <form>
+      SRN: <input type="text" id="txtsrn"/> (eg. R17CS009) <br/>
+               <input type="submit" value="Click to validate" onclick=" validate();"/>
+	<h2> SHUBHAM KUMAR SINGH</h2>
+      </form>
+</body>
+
+</html>

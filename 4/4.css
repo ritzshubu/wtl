@@ -1,0 +1,54 @@
+CATALOG 
+{ 
+ 
+background-color: #d1dee0; 
+ 
+width: 100%; 
+} 
+STUDENT
+{ 
+ 
+display: block; 
+ 
+margin-bottom: 30pt; 
+ 
+margin-left: 0; 
+} 
+NAME,NAME2
+{ 
+ 
+color: #FF0000; 
+ 
+font-size: 20pt; 
+} 
+NAME1,NAME3{
+    color: rgb(31, 134, 45); 
+ 
+font-size: 20pt; 
+}
+
+SRN,SRN1
+{ 
+ 
+color: #0000FF; 
+ 
+font-size: 20pt; 
+} 
+BRANCH,SEMESTER1
+{ 
+ 
+display: block; 
+ 
+color: #2e0b0b; 
+ 
+margin-left: 20pt; 
+}
+SEMESTER,BRANCH1
+{ 
+ 
+display: block; 
+ 
+color: #4f3081; 
+ 
+margin-left: 20pt; 
+}

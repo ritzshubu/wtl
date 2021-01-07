@@ -1,0 +1,18 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet type="text/css" href="5a.css" ?>
+<RU>
+<center>
+ <b> Books </b><br />
+ <e> Electronics </e>
+ <EI>
+    <m>Mobiles</m>
+    <l>Laptops</l>
+    <h>headphones</h>
+    <er>earphones</er>
+    <t>Tablets</t>
+ </EI>   
+ <s> Stationaries </s><br />
+ <c> Clothes</c><br />
+ <o> other </o><br />
+ </center>
+</RU>
